@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 - 🛒 [Olly.ae](https://olly.ae) – E-commerce & Lucky Draw Platform (Laravel + Flutter + Azure)  
 - 🏥 [ElnaggarLegal.com](https://elnaggarlegal.com) – Legal & Corporate Services Website  
 - 💎 [Timeluxe](#) – Luxury Watch Configurator (Laravel + React + AI)  
