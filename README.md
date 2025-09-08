@@ -53,4 +53,4 @@
 
 ---
 
-⚡ *“Bridging technology and business goals with scalable, cloud-powered solutions.”*
+⚡ *“Bridging technology and business goals with scalable, AI & cloud-powered solutions.”*
