@@ -46,10 +46,10 @@
 ---
 
 ## 🚀 Recent Projects
-- 🛒 [Olly.ae](https://olly.ae) – E-commerce & Lucky Draw Platform (Laravel + Flutter + Azure)  
+- 🛒 [Olly.ae](https://olly.ae) – E-commerce & Lucky Draw Platform  
 - 🏥 [ElnaggarLegal.com](https://elnaggarlegal.com) – Legal & Corporate Services Website  
-- 💎 [Timeluxe](#) – Luxury Watch Configurator (Laravel + React + AI)  
-- 🎟️ [ShowTime Canada](#) – Event Booking Platform (PHP API + Flutter App)  
+- 💎 [Timeluxe](#) – Luxury Watch Configurator 
+- 🎟️ [ShowTime Canada](#) – Event Booking Platform 
 
 ---
 
